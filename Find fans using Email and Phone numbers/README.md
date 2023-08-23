@@ -1,5 +1,3 @@
-CP4
-<your name> jongjunkim 
-<your github id>    jongjunkim  
-<your Binghamton userid>    jkim643 
-<link to your cp4 repo>     https://github.com/Binghamton-University-CS/cs240-spring2022-cp4-jongjunkim.git
+●	Designed a linked list that holds a number of fans using C++		
+●	Implemented Binary Search Tree to find a fan with either Email or Phone numbers 
+●	Programmed to find the necessary information among a lot of data
