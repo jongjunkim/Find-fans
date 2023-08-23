@@ -1,4 +1,4 @@
-# Find-fans
+# Find-fans using Email and Phone numbers
 
 *	Designed a linked list that holds a number of fans using C++
 * Implemented Binary Search Tree to find a fan with either Email or Phone numbers 
